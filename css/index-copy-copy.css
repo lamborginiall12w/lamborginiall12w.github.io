@@ -1,0 +1,126 @@
+body {
+  height: 100%;
+  background: url('../images/347244-carbon-fiber-background-1920x1080-hd-for-mobile.jpg') rgb(255, 255, 255);
+  background-size: auto auto;
+  background-position: left top;
+  font: 400 2.125em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  float: left;
+}
+
+.container .container {
+  width: 1125px;
+  height: 157px;
+  margin: -204px 0 0 3.91667%;
+}
+
+.container .text {
+  float: left;
+  width: 28.8668320926%;
+  min-height: 46px;
+  margin: 73px 0 0 68.40364%;
+  font-size: 1em;
+}
+
+.text {
+  color: rgb(255, 255, 255);
+}
+
+._button {
+  display: block;
+  float: left;
+  width: 275px;
+  height: 64px;
+  margin: 16px 0 0 40.68099%;
+  border: 1px solid rgb(250, 232, 0);
+  border-radius: 3px;
+  background-color: rgb(222, 222, 222);
+  font-size: 1.147em;
+  text-align: center;
+  color: rgb(3, 3, 2);
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+._button:hover {
+  border-width: 4px;
+  border-color: rgb(179, 167, 24);
+  box-shadow: -21px 9px 5px rgba(0, 0, 0, .5);
+  color: rgb(0, 0, 0);
+}
+
+._button:active {
+  border-width: 10px;
+  border-color: rgb(235, 231, 184);
+}
+
+._element {
+  position: relative;
+}
+
+.container-1 {
+  z-index: 4;
+  width: 22.4166666666%;
+  height: 189px;
+  margin: 6px 0 0 -2.83073%;
+  background-image: url('../images/Lamborghini-logo-1920x1080.png');
+  background-size: cover;
+  background-position: left top;
+}
+
+.container-2 {
+  position: relative;
+  clear: both;
+  z-index: 2;
+  width: 100%;
+  height: 95px;
+  margin-top: 26px;
+  background-color: rgba(0, 0, 0, 0.66);
+}
+
+.container-4 {
+  clear: both;
+  z-index: 3;
+  width: 70.5%;
+  height: 228px;
+  margin: -316px 0 0 24.2486979166%;
+  background-image: url('../images/4.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: 0% 52%;
+}
+
+.container-5 {
+  clear: both;
+  width: 100.75%;
+  height: 153px;
+  margin: 210px 0 0 0.75%;
+  background-color: rgba(0, 0, 0, 0.76);
+}
+
+.text-1 {
+  width: 311px;
+  min-height: 50px;
+  margin: 383px auto 0;
+  border: 4px solid rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.75);
+  font-size: 1.235em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-2 {
+  width: 946px;
+  min-height: 115px;
+  margin: 33px auto 0;
+  border: 2px solid rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.66);
+  font-size: 1em;
+  text-align: center;
+}

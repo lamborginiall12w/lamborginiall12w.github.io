@@ -1,0 +1,482 @@
+body {
+  height: 100%;
+  background: url('../images/347244-carbon-fiber-background-1920x1080-hd-for-mobile.jpg') rgb(255, 255, 255);
+  background-size: auto auto;
+  background-position: left top;
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  float: left;
+}
+
+.text {
+  float: left;
+  color: rgb(255, 255, 255);
+}
+
+.text-2 p,
+.text-3 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  float: left;
+  text-align: center;
+}
+
+.container-1 {
+  width: 1121px;
+  height: 170px;
+  margin: 29px 0 0 4.58464%;
+}
+
+.container-10 {
+  position: relative;
+  z-index: 18;
+  width: 25.7963003502%;
+  height: 259px;
+  margin: 10px 0 0 8.8632899999%;
+  border: 2px solid rgb(0, 0, 0);
+  background-image: url('../images/1280px-Lamborghini_Miura_Sinsheim.jpg');
+  background-size: cover;
+  background-position: left top;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.container-11 {
+  position: relative;
+  clear: both;
+  z-index: 20;
+  width: 25.7963003502%;
+  height: 259px;
+  margin: 40px 0 0 1.57345%;
+  border: 2px solid rgb(0, 0, 0);
+  background-image: url('../images/Lamborghini-Espada.jpg');
+  background-size: cover;
+  background-position: 81% 78%;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.container-12 {
+  position: relative;
+  z-index: 24;
+  width: 25.7963003502%;
+  height: 259px;
+  margin: 40px 0 0 10.73364%;
+  border: 2px solid rgb(0, 0, 0);
+  background-image: url('../images/Lamborghini_Countach_LP500S.jpg');
+  background-size: cover;
+  background-position: 111% 0%;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.container-13 {
+  position: relative;
+  z-index: 22;
+  width: 25.7963003502%;
+  height: 259px;
+  margin: 43px 0 0 8.93444%;
+  border: 2px solid rgb(0, 0, 0);
+  background-image: url('../images/Lamborghini_Aventador_LP700-4_-_Mondial_de_l\'Automobile_de_Paris_2014_-_003.jpg');
+  background-size: cover;
+  background-position: 82% 0%;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.container-14 {
+  position: relative;
+  clear: both;
+  z-index: 26;
+  width: 25.7963003502%;
+  height: 259px;
+  margin: 42px 0 0 1.57345%;
+  border: 2px solid rgb(0, 0, 0);
+  background-image: url('../images/1920px-Geneva_MotorShow_2013_-_Lamborghini_Veneno_1.jpg');
+  background-size: cover;
+  background-position: left top;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.container-15 {
+  position: relative;
+  z-index: 28;
+  width: 25.7963003502%;
+  height: 259px;
+  margin: 42px 0 0 11.10169%;
+  border: 2px solid rgb(0, 0, 0);
+  background-image: url('../images/Lamborghini_Huracan_LP610-4_(16728125723).jpg');
+  background-size: cover;
+  background-position: 67% 0%;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.container-16 {
+  position: relative;
+  z-index: 30;
+  width: 25.7963003502%;
+  height: 259px;
+  margin: 42px 0 0 8.56639%;
+  border: 2px solid rgb(0, 0, 0);
+  background-image: url('../images/1920px-Lamborghini_Urus_20180306_Genf_2018.jpg');
+  background-size: cover;
+  background-position: left top;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.container-10:hover,
+.container-11:hover,
+.container-12:hover,
+.container-13:hover,
+.container-14:hover,
+.container-15:hover,
+.container-16:hover,
+.container-8:hover,
+.container-9:hover {
+  border-width: 4px;
+}
+
+.container-10:active,
+.container-11:active,
+.container-12:active,
+.container-13:active,
+.container-14:active,
+.container-15:active,
+.container-16:active,
+.container-8:active,
+.container-9:active {
+  border-color: rgb(255, 255, 255);
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.container-17 {
+  clear: both;
+  width: 105px;
+  height: 104px;
+  margin: 54px 0 0 86.07682%;
+  border: 3px solid rgb(251, 183, 49);
+  border-radius: 65px;
+  background: url('../images/eyebox_arrow_yellow.png') rgb(255, 255, 255);
+  background-size: cover;
+  background-position: left top;
+}
+
+.container-18 {
+  clear: both;
+  width: 100.75%;
+  height: 153px;
+  margin: 80px 0 0 -1.4166700001%;
+  background-color: rgba(0, 0, 0, 0.76);
+}
+
+.container-2 {
+  width: 23.9964317573%;
+  height: 189px;
+  margin-left: -4.81713%;
+  background-image: url('../images/Lamborghini-logo-1920x1080.png');
+  background-size: cover;
+  background-position: left top;
+}
+
+.container-3 {
+  width: 75.4683318465%;
+  height: 228px;
+  margin: -25px 0 0 3.74387%;
+  background-image: url('../images/4.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: 0% 52%;
+}
+
+.container-4 {
+  clear: both;
+  width: 100%;
+  min-width: 1200px;
+  height: 95px;
+  margin-top: 48px;
+  background-color: rgba(0, 0, 0, 0.66);
+}
+
+.container-5 {
+  width: 595px;
+  min-width: 49.58px;
+  height: 63px;
+  margin: 17px 0 0 17.23047%;
+}
+
+.container-6 {
+  position: relative;
+  z-index: 11;
+  width: 27.8973958333%;
+  height: 278px;
+  margin: 35px 0 0 4.13021%;
+  background-image: url('../images/1280px-Lamborghini_Miura_Sinsheim(2).jpg');
+  background-size: cover;
+  background-position: 88% 0%;
+}
+
+.container-7 {
+  clear: both;
+  width: 95.1666666666%;
+  height: 887px;
+  margin: 31px 0 0 2.83464%;
+}
+
+.container-8 {
+  position: relative;
+  z-index: 14;
+  width: 25.7963003502%;
+  height: 259px;
+  margin: 10px 0 0 1.57345%;
+  border: 2px solid rgb(0, 0, 0);
+  background-image: url('../images/1280px-Lamborghini_350_GT_1964.jpg');
+  background-size: cover;
+  background-position: left top;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.container-9 {
+  position: relative;
+  z-index: 16;
+  width: 25.7963003502%;
+  height: 259px;
+  margin: 10px 0 0 10.73364%;
+  border: 2px solid rgb(0, 0, 0);
+  background-image: url('../images/400GT.JPG');
+  background-size: cover;
+  background-position: left top;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.text-1 {
+  clear: both;
+  width: 40.8333333333%;
+  min-height: 61px;
+  margin: 48px 0 0 22%;
+  background-color: rgba(0, 0, 0, 0.63);
+  font-size: 2.375em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-10 {
+  width: 84.0677966101%;
+  min-height: 41px;
+  margin: 13px 0 0 8.49554%;
+  font-size: 1.563em;
+}
+
+.text-11,
+.text-12 {
+  width: 84.0677966101%;
+  min-height: 41px;
+  margin: 210px 0 0 8.14604%;
+  font-size: 1.563em;
+}
+
+.text-13 {
+  width: 28.8668320926%;
+  min-height: 46px;
+  margin: 73px 0 0 68.40364%;
+  font-size: 2.125em;
+}
+
+.text-2 {
+  position: relative;
+  clear: both;
+  z-index: 10;
+  width: 56.6333333333%;
+  min-height: 470px;
+  margin: 35px 0 0 6.16667%;
+  padding: 107px;
+  background-color: rgba(0, 0, 0, 0.67);
+  font-size: 1em;
+  text-align: center;
+}
+
+.text-3 {
+  clear: both;
+  width: 28.3190104166%;
+  min-height: 282px;
+  margin: -165px 0 0 66.9309895833%;
+  background-color: rgba(0, 0, 0, 0.79);
+  font-size: 1em;
+}
+
+.text-6 {
+  width: 84.0677966101%;
+  min-height: 41px;
+  margin: 184px 0 0 6.76955%;
+  font-size: 1.563em;
+}
+
+.text-4,
+.text-5,
+.text-7 {
+  width: 84.0677966101%;
+  min-height: 41px;
+  margin: 206px 0 0 7.79654%;
+  font-size: 1.563em;
+}
+
+.text-8 {
+  width: 98.4191848585%;
+  min-height: 41px;
+  margin: 188px 0 0 2.39811%;
+  font-size: 1.563em;
+}
+
+.text-9 {
+  width: 90.504355307%;
+  min-height: 41px;
+  margin: 11px 0 0 4.16174%;
+  font-size: 1.563em;
+}
+
+.container ._button-1 {
+  width: 47px;
+  height: 48px;
+  margin: 27px 0 0 2.16667%;
+  border-radius: 24px;
+  background-color: rgb(250, 232, 0);
+  font-size: 2.313em;
+  color: rgb(255, 255, 255);
+}
+
+.container ._button-2 {
+  width: 18.8333333333%;
+  min-width: 226px;
+  height: 49px;
+  margin: 27px 0 0 4.68099%;
+  border: 1px solid rgb(250, 232, 0);
+  border-radius: 3px;
+  background-color: rgb(222, 222, 222);
+  font-size: 1.813em;
+  color: rgb(3, 3, 2);
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.container ._button-2:hover {
+  border-width: 4px;
+  border-color: rgb(179, 167, 24);
+  box-shadow: -21px 9px 5px rgba(0, 0, 0, .5);
+  color: rgb(0, 0, 0);
+}
+
+.container ._button-2:active {
+  border-width: 10px;
+  border-color: rgb(235, 231, 184);
+}
+
+.container ._button-3 {
+  width: 235px;
+  height: 38px;
+  margin: 10px 0 0 6.36555%;
+  border: 2px solid rgb(250, 232, 0);
+  border-radius: 57px;
+  background-color: rgb(255, 255, 255);
+  font-size: 1.188em;
+  color: rgb(0, 0, 0);
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.container ._button-3:hover {
+  border-width: 3px;
+  box-shadow: 0 0 5px 13px rgba(0, 0, 0, .5);
+  font-size: 19px;
+  color: rgb(177, 180, 53);
+}
+
+.container ._button-4 {
+  width: 232px;
+  height: 38px;
+  margin: 10px 0 0 11.08456%;
+  border: 2px solid rgb(250, 232, 0);
+  border-radius: 38px;
+  background-color: rgb(255, 255, 255);
+  font-size: 1.188em;
+  color: rgb(0, 0, 0);
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+
+.container ._button-4:hover {
+  box-shadow: 0 0 5px 11px rgba(0, 0, 0, .5);
+  color: rgb(177, 180, 53);
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: rgb(250, 232, 0);
+  font-family: inherit;
+  font-style: normal;
+  font-size: inherit;
+  font-weight: 700;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(166, 155, 20);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
